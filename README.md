@@ -4,7 +4,7 @@ Code et Simulation du projet (Lien Wokwi) : (https://wokwi.com/projects/39963337
 
 Membre du Groupe :
 TRAORE Latif Armand Dieudonné
-GUIMBETI Japhete Hohel
+/GUIMBETI Japhete Hohel
 
 ----------------------------------------- Rappel des consignes ------------------------------------------------
 
